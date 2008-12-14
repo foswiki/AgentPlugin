@@ -49,7 +49,7 @@ use vars qw(
     );
 
 
-$VERSION    = '$Rev: 6827 $';
+$VERSION    = '$Rev$';
 $RELEASE = 'Dakar';
 #$VERSION   = '1.000'; #at# initial release
 
